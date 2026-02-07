@@ -1,7 +1,6 @@
 Team
-Aaditya Khanuja
 
-Peter James Little 
+Aaditya Khanuja and Peter James Little 
 
 
 License
